@@ -1,4 +1,4 @@
-# Rafhael VIanna Palles
+# Rafhael Vianna Palles
 Com mais de 10 anos de experiência ativa no desenvolvimento de software, possuo um histórico sólido no desenho de processos e desenvolvimento de aplicações complexas. Ao longo da minha carreira, liderei equipes técnicas e participei ativamente das definições arquiteturais em projetos de migração para a nuvem. Como arquiteto de soluções, tenho expertise em criar e implementar soluções tecnológicas inovadoras, impulsionando a eficiência operacional e otimizando o desempenho dos sistemas. Sou apaixonado por acompanhar as últimas tendências tecnológicas e estou constantemente buscando oportunidades para aprimorar minhas habilidades e conhecimentos
 
 ## Conecte-se comigo
